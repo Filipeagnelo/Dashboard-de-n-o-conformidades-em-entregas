@@ -1,1 +1,1 @@
-# Dashboards para tomada de descisão baseados em entregas e suas não conformidades.
+# Dashboards para tomada de decisão baseados em entregas e suas não conformidades.
